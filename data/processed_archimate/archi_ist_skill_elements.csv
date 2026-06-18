@@ -1,0 +1,587 @@
+skill_id,skill_label,skill_label_de,src_baseline,src_ext_1_1,src_ext_2_1
+ESCO:http://data.europa.eu/esco/skill/00e53a0a-c0ba-4c9f-a2ed-4706d5832a00,guarantee customer satisfaction,Kundenzufriedenheit gewährleisten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/05e5e14f-ffa6-4106-b311-c6335ccc2bd2,solar energy,Sonnenenergie,True,False,False
+ESCO:http://data.europa.eu/esco/skill/0c0488b3-fca5-4deb-865b-8dc605c3d909,sales argumentation,Verkaufsargumentation,True,False,False
+ESCO:http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127,communicate with customers,mit Kunden kommunizieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/0dd4d328-f015-463d-9a7e-06b7041f0b26,consumer goods industry,Konsumgüterindustrie,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1585fc98-bfe4-461f-97fc-734055a2c3ce,characteristics of products,Merkmale von Erzeugnissen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1cf20c3c-027e-45f4-bad1-c91b98726d28,provide information on geothermal heat pumps,Information über Erdwärmepumpen zur Verfügung stellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1dae8445-12e5-423a-bb26-824010e299b9,ensure compliance with legal requirements,Einhaltung der rechtlichen Bestimmungen sicherstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2206af0c-3deb-48c5-a544-b9983d347da3,answer requests for quotation,Angebotsanforderungen beantworten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2dd6ecdf-8a08-438b-8b4b-e0374f7b523b,carry out sales analysis,Verkaufsanalyse durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c,maintain relationship with suppliers,Beziehungen zu Lieferanten pflegen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4334037f-c1d8-4241-b82e-8db7e469327b,electricity market,Strommarkt,True,False,False
+ESCO:http://data.europa.eu/esco/skill/50181a4b-1cfd-4fbd-ac9a-c1a494b9c5d0,implement customer follow-up,Nachfassaktionen bei Kunden und Kundinnen umsetzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/64f2c90c-4144-418e-82c6-3150e03d29a3,assess customers,Kundenbewertung durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d,identify customer's needs,Kundenbedürfnisse feststellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8,prospect new customers,neue Kunden ausfindig machen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/756ae350-9e1f-4cb9-9c27-6bd99806dadc,sales promotion techniques,Verkaufsförderungstechniken,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7832b684-580c-4eaf-a8b3-322164b041ab,provide information on solar panels,Information über Solarpaneele zur Verfügung stellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7f783956-f734-4d56-85de-10f0c1706f8a,record customers' personal data,personenbezogene Daten von Kunden und Kundinnen aufzeichnen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7ff9cce1-6518-48db-8f59-2beb81508fb2,provide information on wind turbines,Information über Windturbinen zur Verfügung stellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/81513fdf-5ea9-4375-9bc4-67ad959ac5de,contact customers,Verbindung zu Kunden und Kundinnen aufnehmen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8b7409b0-e18e-4dfc-9ad9-8ddbcce38849,keep records of customer interaction,Aufzeichnungen über Interaktionen mit Kunden und Kundinnen führen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7,manage contracts,Verträge verwalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/96d901a6-c931-4e8d-b685-a47e1deaaa1b,identify energy needs,Energiebedarf feststellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/97b246e3-4f45-4708-9734-cd3158d868cf,demonstrate motivation for sales,Verkaufsmotivierung zeigen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38,use customer relationship management software,Software für das Kundenbeziehungsmanagement nutzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a6ae7a34-5a5c-48dd-9b82-8beccca63e3c,ensure compliance with purchasing and contracting regulations,Konformität mit Einkaufs- und Auftragsvergabebestimmungen sicherstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b0565bd9-29c8-42f6-b174-702970fc2f4f,produce sales reports,Verkaufsberichte erzeugen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b7c8f418-08d5-45d6-b697-ab26c6ecbfb4,ensure client orientation,Für Kundenorientierung sorgen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8,implement sales strategies,Vertriebsstrategien umsetzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13,apply technical communication skills,Fähigkeiten zur Kommunikation über Technik anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c8ac1986-38fa-43b2-89dc-50a4beeb420e,electricity,Elektrizität,True,False,False
+ESCO:http://data.europa.eu/esco/skill/cace7a77-38b7-4cdf-8171-e17692bef5f6,respond to customers' inquiries,Kundenanfragen beantworten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60,have computer literacy,EDV-Kenntnisse besitzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d2de37c7-7233-481b-8b1a-f4dfde11ca91,advise on merchandise features,Beratung in Bezug auf Handelswaren leisten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d6d3fee7-47e2-47f4-a0ec-6c75f28c6abd,product comprehension,Produktverständnis,True,False,False
+ESCO:http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb,customer relationship management,Kundenbeziehungsmanagement,True,False,False
+ESCO:http://data.europa.eu/esco/skill/de7b8c6c-9ed4-4776-924c-4265dd1d9cde,demonstrate products' features,Merkmale von Produkten vorführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e38cbdd2-cd6c-451a-a9bd-9bc6355dafe8,inform on government funding,über staatliche Unterstützung informieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9,sales strategies,Verkaufsstrategien,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f41f860f-91ab-4ca7-a906-483fa9d13c16,prospect new regional contracts,neue regionale Verträge ausfindig machen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f4d3a8ff-2db1-4015-aa28-d4564afef3fd,keep records on sales,Aufzeichnungen über Verkäufe führen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f8413360-6114-40de-a276-c59b764b9913,renewable energy,Technologien für erneuerbare Energieträger,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fae1463c-9f5c-4b4f-96be-c461703bca8c,inform customers on energy consumption fees,Verbraucher über Energieverbrauchskosten informieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fb3bc9b5-2297-4bba-85b1-60f696a92db8,characteristics of services,Merkmale von Dienstleistungen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352,achieve sales targets,Verkaufsziele erreichen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f,advertising techniques,Werbetechniken,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8614b988-b907-473e-a701-47b525959dc8,advise on heating systems energy efficiency,in Sachen Heizungsanlagen-Energieeffizienz beraten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/750caee5-12a0-46ba-b8aa-1e56370deaf9,analyse consumer buying trends,Trends im Kaufverhalten von Kunden und Kundinnen analysieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/64e09849-a7db-4d6b-a932-66264420eb97,apply social media marketing,Marketing über soziale Medien anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/53cc0cc2-a9ce-4803-ae55-3cc0d7a5fc2c,attend trade fairs,an Messen teilnehmen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7ae62140-fe02-4ee3-a0c5-fb5668a2870d,consumer protection,Verbraucherschutz,True,False,False
+ESCO:http://data.europa.eu/esco/skill/499031e7-9821-4728-adb8-2925663c6ef2,credit card payments,Kreditkartenzahlungen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c2d48b3a-1f91-4442-8f18-6c43a589737b,develop media strategy,Medienstrategie entwickeln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/66fda9e5-f9f7-4342-b4f1-23355bcdd0b9,develop promotional tools,Werbetools entwickeln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/95013213-ee67-493b-86d0-e383e0f72482,domestic heating systems,Gebäudeheizungsanlagen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/debef2fc-7af4-4bff-ac92-4d0317915a84,electronic communication,elektronische Kommunikation,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ddce2912-bc0f-4a47-aa2b-c1de48bc4b44,energy conservation,Energiesparen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4e09e2d2-e317-47d2-bf5e-1d6c66be3efc,energy performance of buildings,Energieeffizienz von Gebäuden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f7e7ccb6-fadc-4c35-935d-e1040be40dfe,handle financial transactions,Finanzgeschäfte abwickeln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bac209e9-d337-4312-9041-17c2e75fa4df,hardware industry,Metallwarenindustrie,True,False,False
+ESCO:http://data.europa.eu/esco/skill/11747665-0e98-4f27-bd0d-536862cd5746,identify suppliers,Lieferanten ermitteln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/13e2378e-0d10-450d-843a-b3592575826e,implement marketing strategies,Marketingstrategien umsetzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c49eb4a4-7b5f-44e6-b346-7153879ac86b,industrial heating systems,industrielle Beheizungen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7893605c-18cc-4c68-8c22-4f969df1a673,liaise with advertising agencies,mit Werbeagenturen in Kontakt stehen,True,False,False
+RESUME:aws cloud,RESUME:aws cloud,RESUME:aws cloud,False,False,True
+RESUME:global site network,RESUME:global site network,RESUME:global site network,False,False,True
+RESUME:issue troubleshooting,RESUME:issue troubleshooting,RESUME:issue troubleshooting,False,False,True
+RESUME:security monitoring,RESUME:security monitoring,RESUME:security monitoring,False,False,True
+RESUME:technical account manager,RESUME:technical account manager,RESUME:technical account manager,False,False,True
+ESCO:http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,communication,Kommunikation,False,True,False
+BA:K 010205-001,Kundendienst,Kundendienst,False,True,False
+BA:K 0711-021,Informatik,Informatik,False,True,False
+BA:K 030206-004,"Berichtswesen, Information","Berichtswesen, Information",False,True,False
+ESCO:http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,plan,planen,False,True,False
+BA:K 0700-049,Microsoft Office,Microsoft Office,False,True,False
+BA:K 090300-010,Training,Training,False,True,False
+BA:K 0702-046,Datenvisualisierungs- und Analysesoftware Origin,Datenvisualisierungs- und Analysesoftware Origin,False,True,False
+BA:K 0700-010,First-Level-Support,First-Level-Support,False,True,False
+BA:K 131300-007,Most,Most,False,True,False
+BA:K 090100-037,Seminarplanung,Seminarplanung,False,True,False
+BA:K 100008-014,Performance (Kunst),Performance (Kunst),False,True,False
+BA:K 100100-007,Informationswissenschaften,Informationswissenschaften,False,True,False
+BA:K 130801-004,"Computer, Datenverarbeitungsprodukte","Computer, Datenverarbeitungsprodukte",False,True,False
+BA:K 070408-009,CALL (Computer Assisted Language Learning),CALL (Computer Assisted Language Learning),False,True,False
+BA:K 090001-009,Missionsdienst,Missionsdienst,False,True,False
+BA:K 030300-043,On-Site-Management,On-Site-Management,False,True,False
+BA:K 030203-015,Marketing,Marketing,False,True,False
+ESCO:http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc,customer service,Kundendienst,False,True,False
+BA:K 0700-030,Third-Level-Support,Third-Level-Support,False,True,False
+BA:K 0805-034,Statistik,Statistik,False,True,False
+BA:K 030303-126,Chemikalienrecht,Chemikalienrecht,False,True,False
+BA:K 0702-017,Datenbank Access (MS Office),Datenbank Access (MS Office),False,True,False
+BA:K 0700-016,Internetkompetenz,Internetkompetenz,False,True,False
+BA:K 030300-025,Management,Management,False,True,False
+BA:K 1314-018,Stöcke,Stöcke,False,True,False
+ESCO:http://data.europa.eu/esco/skill/c29aa9d2-4da8-4bdd-831c-8d4a2fb51730,work independently,selbstständig arbeiten,False,True,False
+BA:K 0700-026,Second-Level-Support,Second-Level-Support,False,True,False
+BA:K 070100-074,CAD-Anwendung TARGET,CAD-Anwendung TARGET,False,True,False
+BA:K 0705-100,"Programmiersprache Basic, Turbo Basic","Programmiersprache Basic, Turbo Basic",False,True,False
+BA:K 030203-062,Green Marketing,Green Marketing,False,True,False
+BA:K 030000-052,Wertpapiergeschäft,Wertpapiergeschäft,False,True,False
+BA:K 070406-020,Bewerbermanagementsysteme,Bewerbermanagementsysteme,False,True,False
+BA:K 0400-010,Distributionslogistik,Distributionslogistik,False,True,False
+BA:K 030300-017,Innovationsmanagement,Innovationsmanagement,False,True,False
+ESCO:http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d,sales activities,Verkaufstätigkeiten,False,True,False
+ESCO:http://data.europa.eu/esco/skill/5b671d86-f1fa-4468-947c-374dc6cdf6b8,pregnancy,Schwangerschaft,False,True,False
+BA:K 0705-197,Programmiersprache Go,Programmiersprache Go,False,True,False
+BA:K 030205-005,Personalrekrutierung,Personalrekrutierung,False,True,False
+BA:K 030203-065,Digital-Marketing,Digital-Marketing,False,True,False
+BA:K 100104-025,"Recherche, Informationsbeschaffung","Recherche, Informationsbeschaffung",False,True,False
+ESCO:http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0,English,Englisch,False,True,False
+BA:K 090301-060,Vielseitigkeitsreiten,Vielseitigkeitsreiten,False,True,False
+ESCO:http://data.europa.eu/esco/skill/1e38f5be-bb7d-42c5-8301-c16cf400f8ee,energy,Erneuerbare Energie,False,True,False
+BA:K 070401-086,Customer-Relationship-Management-Software ACT!,Customer-Relationship-Management-Software ACT!,False,True,False
+BA:K 070100-071,CAD-Anwendung Spirit,CAD-Anwendung Spirit,False,True,False
+BA:K 070407-005,Vertriebs- und Reservierungssystem Amadeus Selling Platform,Vertriebs- und Reservierungssystem Amadeus Selling Platform,False,True,False
+BA:K 030000-050,"Warentermingeschäft, Termingeschäft","Warentermingeschäft, Termingeschäft",False,True,False
+ESCO:http://data.europa.eu/esco/skill/2b22f3b1-5de4-43f9-b6d1-b20f65871268,history,Geschichtswissenschaft,False,True,False
+BA:K 030203-027,Vertriebsmarketing,Vertriebsmarketing,False,True,False
+BA:K 030201-014,Kostenanalyse,Kostenanalyse,False,True,False
+BA:K 070105-043,Webbrowser Microsoft Edge,Webbrowser Microsoft Edge,False,True,False
+BA:K 0700-023,Operating,Operating,False,True,False
+BA:K 1401-081,CompTIA Zertifizierung Project+,CompTIA Zertifizierung Project+,False,True,False
+BA:K 100101-176,Video,Video,False,True,False
+BA:K 100001-018,"Industriedesign, Produktdesign","Industriedesign, Produktdesign",False,True,False
+BA:K 030203-013,Key-Account-Management (Großkundenbearbeitung),Key-Account-Management (Großkundenbearbeitung),False,True,False
+BA:K 100101-008,Bildschnitt,Bildschnitt,False,True,False
+BA:K 0703-032,"Softwaretechnik, Software-Engineering","Softwaretechnik, Software-Engineering",False,True,False
+BA:K 070408-003,Vertriebsplanungssoftware District 10,Vertriebsplanungssoftware District 10,False,True,False
+BA:K 070106-028,Automatisierungssoftware UC4,Automatisierungssoftware UC4,False,True,False
+BA:K 030203-008,Firmenkundengeschäft,Firmenkundengeschäft,False,True,False
+BA:K 070102-017,FEM-Anwendung I-DEAS,FEM-Anwendung I-DEAS,False,True,False
+BA:K 090210-042,Supervision,Supervision,False,True,False
+BA:K 030202-003,Preisgestaltung,Preisgestaltung,False,True,False
+ESCO:http://data.europa.eu/esco/skill/0839eea4-c57b-4c14-b19b-923fbedb5d88,perform business research,geschäftsbezogene Forschung betreiben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/28a2ff4b-5f99-448e-8bd7-fb836166e95f,allocate bills,Rechnungen zuordnen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2ff405ec-f59c-4a7b-84b6-9776a49582c4,bookkeeping regulations,Vorschriften für die Buchhaltung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/39e43f7c-a95e-4583-be76-bb134ccce1ae,financial department processes,Abläufe in der Finanzabteilung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3d427a49-4f85-42cd-8a92-62d4a34f41a1,file documents,Dokumente archivieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3e04e39d-9eb6-4167-ad2d-e3413f647e4e,organise business documents,Geschäftsunterlagen ordnen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/68b51538-b056-4cb3-bb15-ab8c3e576cc9,follow up accounts receivables,Forderungen nachverfolgen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/71dde84c-0058-4c52-a556-523369333db8,use office systems,Bürosysteme nutzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/76f22707-8d30-453f-9eb7-3376e2960311,handle mail,Postsendungen bearbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7c3865d1-e5a9-4043-a7a4-2e9e30468c0b,perform office routine activities,routinemäßige Bürotätigkeiten durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/811bdb9d-5bf7-4b5a-a3f5-4fc2002f6d57,financial capability,Finanzkompetenz,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8d49f760-3765-4612-8d40-a2bdd50738fe,fill out forms,Formulare ausfüllen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/95fc86de-8e74-4753-9344-281179aa74b0,maintain credit history of clients,Kreditinformationen von Kunden und Kundinnen aktuell halten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ab986bc4-df92-4351-9ac1-aa75af943cf7,perform clerical duties,Büroarbeiten ausführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c753a3b5-d5cc-406d-adfe-3372bb267f4b,maintain customer records,Kundendaten aufbewahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/faf8943c-72ff-4736-a587-25508695d6f0,maintain financial records,Finanzbuchhaltung führen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c5d018ca-f6fa-4cc0-b209-43df46e56d48,analyse customer service surveys,Kundendiensterhebungen analysieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/36570124-e778-4213-862e-c4059eb5c224,assess debtor's financial situation,finanzielle Lage des Schuldners beurteilen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5f1ebff6-98ec-411f-a1d4-0bf04bd03bdf,check accounting records,Buchführungsunterlagen überprüfen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/de2f0ce8-f8d6-48c5-a213-4d065251cecf,communicate by telephone,per Telefon kommunizieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/42cad89f-afd4-4418-8439-8ce87eff1f26,count money,Geld zählen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/146eccdc-c52a-4d61-9406-3af617caa7d6,forecast sales over periods of time,Umsatzprognosen für verschiedene Zeiträume erstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/63321ecf-4fc6-44d9-88f1-5373a4f3038a,handle petty cash,Portokasse verwalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5f1d1319-7954-4a9b-90c7-57668e3a0d4b,interpret financial statements,Jahresabschlüsse auslegen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/34e0f023-0ca9-4f64-a932-3248bb4ed5df,interview bank loanees,Empfänger von Bankdarlehen befragen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e2e15494-65b9-4af5-8b86-53fb51e7e022,manage accounts,Konten verwalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/210827e3-3129-45a2-8683-70399f3f561f,order supplies,Lieferungen in Auftrag geben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/60f51172-37c0-4933-a27a-cbf55dcd7580,prepare financial statements,Jahresabschlüsse erstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bdcac0c8-b77a-4640-9eaf-c0cf3efd1e23,process payments,Zahlungen verarbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ae57a9c3-f761-4b03-be2b-99a781704c73,use sales forecasting softwares,Software für die Verkaufsprognose nutzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,Tabellenkalkulationsprogramme verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/68ad2716-36f4-4445-a437-ebfce0e23430,draw up marketing and sales plan,Marketing- und Verkaufspläne entwerfen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/dd7c9dfd-6e2c-46fd-aefc-369402d0200c,create a financial report,einen Finanzbericht erstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9983816d-cc78-4d3f-9e3c-c7baa9ebc77a,computer equipment,EDV-Ausstattung,False,True,True
+RESUME:associate,RESUME:associate,RESUME:associate,False,False,True
+RESUME:switch,RESUME:switch,RESUME:switch,False,False,True
+BA:K 1401-062,Befähigung für Arbeiten unter Spannung (AuS),Befähigung für Arbeiten unter Spannung (AuS),False,True,False
+BA:K 090100-001,Aus- und Fortbildung,Aus- und Fortbildung,False,True,False
+BA:K 11-015,Deutsch,Deutsch,False,True,False
+BA:K 0604-018,Maschinelle Übersetzung - MÜ,Maschinelle Übersetzung - MÜ,False,True,False
+BA:K 030203-060,Vertriebsmanagement,Vertriebsmanagement,False,True,False
+BA:K 030205-017,Employee Experience,Employee Experience,False,True,False
+BA:K 0809-003,Entwicklung,Entwicklung,False,True,False
+BA:K 130901,Medien,Medien,False,True,False
+BA:K 100100-016,Bibliotheksmanagementsysteme - BMS,Bibliotheksmanagementsysteme - BMS,False,True,False
+BA:K 130901-000,"Bild-, Kunstbände, Kalender, Poster","Bild-, Kunstbände, Kalender, Poster",False,True,False
+BA:K 131202-003,Direktversicherung,Direktversicherung,False,True,False
+BA:K 090100-021,Gruppenarbeit,Gruppenarbeit,False,True,False
+BA:K 16-113,"Ladengeschäft, Shop","Ladengeschäft, Shop",False,True,False
+BA:K 030203-026,Vertrieb,Vertrieb,False,True,False
+BA:K 11-021,Englisch,Englisch,False,True,False
+BA:K 090003-041,Inklusionspädagogik,Inklusionspädagogik,False,True,False
+BA:K 010202-045,"Produktion, Fertigung","Produktion, Fertigung",False,True,False
+BA:K 030300-036,Umweltberatung,Umweltberatung,False,True,False
+BA:K 090102-029,"Werken, Techniklehre","Werken, Techniklehre",False,True,False
+BA:K 130901-001,Bildmedien,Bildmedien,False,True,False
+BA:K 090100-008,Coaching,Coaching,False,True,False
+BA:K 12-003,Innendienst,Innendienst,False,True,False
+BA:K 0700-015,"Internet-, Intranettechnik","Internet-, Intranettechnik",False,True,False
+BA:K 030205-003,"Lohn-, Gehalts-, Tarifwesen","Lohn-, Gehalts-, Tarifwesen",False,True,False
+BA:K 090002-003,"Pflegehilfe (Alten-, Kranken-, Behindertenpflege)","Pflegehilfe (Alten-, Kranken-, Behindertenpflege)",False,True,False
+BA:K 070401-099,SAP-Basis-System,SAP-Basis-System,False,True,False
+BA:K 131301-009,Tafelwasser,Tafelwasser,False,True,False
+BA:K 0702-056,Verzeichnisdienst Active Directory,Verzeichnisdienst Active Directory,False,True,False
+BA:K 010205-003,"Wartung, Reparatur, Instandhaltung","Wartung, Reparatur, Instandhaltung",False,True,False
+BA:K 0802-012,Wirtschaftsingenieurwesen,Wirtschaftsingenieurwesen,False,True,False
+ESCO:http://data.europa.eu/esco/skill/95c35c3a-035f-47c2-90cf-7e934d20fc08,electronics,Elektronik,False,True,False
+BA:K 12-008,Assistenz,Assistenz,False,True,False
+BA:K 100101-002,"Ausstattung (Film, Fernsehen, Bühne), Szenografie","Ausstattung (Film, Fernsehen, Bühne), Szenografie",False,True,False
+BA:K 070104-003,"Autorensysteme (Macromedia Director, Toolbook u.a.)","Autorensysteme (Macromedia Director, Toolbook u.a.)",False,True,False
+BA:K 090304-001,B-Lizenz (Sport),B-Lizenz (Sport),False,True,False
+BA:K 090002-017,Betreuung,Betreuung,False,True,False
+BA:K 030300-004,"Betriebsleitung, Betriebsführung","Betriebsleitung, Betriebsführung",False,True,False
+BA:K 130000-006,Brötchen,Brötchen,False,True,False
+BA:K 030203-004,Customer-Relationship-Management (CRM),Customer-Relationship-Management (CRM),False,True,False
+BA:K 06,Dienstleistungen,Dienstleistungen,False,True,False
+BA:K 0700-009,"E-Commerce, E-Business","E-Commerce, E-Business",False,True,False
+BA:K 030300-065,"Environmental, Social and Governance (ESG)","Environmental, Social and Governance (ESG)",False,True,False
+ESCO:http://data.europa.eu/esco/skill/00e895f4-b9d3-4a1a-8c36-baf10fbfb982,manufacture wearing apparel products,Kleidungsprodukte herstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/018164df-2814-4926-bdf7-398d86b9dfe6,evaluate garment quality,Stoffqualität bewerten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/059d0c45-3ad3-440e-a20d-63ecbece9336,knitting machine technology,Strickmaschinentechnik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/05c00631-b864-4842-b47e-06710c197c7a,coordinate manufacturing production activities,Tätigkeiten im Herstellungsprozess koordinieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/07197605-141a-4c85-8995-00614de16c87,demonstrate proficiency in packaging standards,Kompetenz bei Verpackungsstandards beweisen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d,manage research data,Forschungsdaten verwalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/09853c3b-6784-456f-abe9-c9f44bf872bc,distinguish accessories,Accessoires unterscheiden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/0b16ebec-1fd8-41c8-a1b9-bbe91a1cc1b8,design package,Verpackung gestalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/0eece926-f1a3-4b65-9b99-a35e4c0eb835,care for food aesthetic,Lebensmittel ästhetisches Aussehen verleihen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/0f0698e7-04e4-4bf7-9af2-e3191147525a,optimise production processes parameters,Herstellungsverfahrensparameter optimieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1177c6f5-09c5-4c35-873c-afd22d170ad3,quality assurance procedures,Qualitätssicherungsverfahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77,production processes,Herstellungsverfahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/13d1b916-0ee9-4ee1-b762-56a9feade16c,health and safety in the textile industry,Gesundheit und Sicherheit in der Textilindustrie,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1718c83c-c481-44dc-a2eb-e1a96acaed71,provide homologation management services,Dienstleistungen im Bereich des Homologationsmanagements erbringen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/187f82c7-b165-4e6b-b327-704e38e85cdd,automotive diagnostic equipment,Fahrzeugdiagnoseausrüstung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/198b614d-a9af-46f5-b3fd-2672b401dd8e,health and safety in the workplace,Gesundheit und Sicherheit am Arbeitsplatz,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1a160710-2143-496f-9dae-99814e69e65c,use textile technique for hand-made products,Textiltechniken für handgearbeitete Erzeugnisse verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1b1c2d44-c487-4121-a2ed-dcda651f4d59,car controls,Kfz-Steuereinrichtungen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1de6b87b-2c7d-49aa-bcc0-3b2ef75f064f,resolve equipment malfunctions,Fehlfunktionen von Ausrüstungsgegenständen beheben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1f857013-3fbc-4205-b904-fe6506744687,leather goods manufacturing processes,Verfahren für die Herstellung von Lederwaren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/209a5498-3449-4689-8ed9-bd08cab4fd78,engineering principles,Grundsätze der Ingenieurwissenschaften,True,False,False
+ESCO:http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0,interact professionally in research and professional environments,im Bereich Forschung und im beruflichen Umfeld professionellen Umgang pflegen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae,maintain relationship with customers,Beziehung zu Kunden und Kundinnen pflegen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2562fa92-6ecf-4ba9-831e-0ce94acb8991,disassemble equipment,Ausrüstung auseinanderbauen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/26baf34d-6721-4bac-b7eb-add0bc566a82,attend to detail in preparation for audits,Auf Details bei der Vorbereitung auf Audits achten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/26f17354-aa39-464a-8c02-266a50f9d789,leather goods components,Bestandteile von Lederwaren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/286e486c-a094-4715-8e5b-a2370b09a408,manage corrective actions,Korrekturmaßnahmen steuern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2ac79be0-1f66-48da-84a6-2d294179927f,create patterns for garments,Bekleidungsmuster erstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6,operate open source software,Open-Source-Software entwickeln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2bdc2f65-b42f-4963-abff-d7214ca4caae,emission standards,Emissionsnormen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2cc2d65f-1081-413d-909d-b95eafb3c1d6,manage briefs for clothing manufacturing,Anweisungen für die Kleidungsherstellung koordinieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/30c6b17a-b6d7-4e67-bd16-5ce87947f9f3,dyeing technology,Färbetechnik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3162ece1-3630-498d-bb99-da1ae3bccc53,develop specifications of technical textiles,Vorgaben für technische Textilien erarbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/31dadcd2-7816-4330-a422-0fc5fb824229,control textile process,Prozess der Textilproduktion kontrollieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3786b61f-f22e-48d1-af8d-ad4c354534db,manufacturing processes,Fertigungsverfahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/39a25537-5057-4c0b-8141-32851e1cd886,manufacturing of wearing apparel,Herstellung von Bekleidung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3d3ee5c3-4286-457f-9f76-1704011f7e11,comply with legal regulations,gesetzliche Vorschriften einhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3e40c7d0-0e36-4b33-bc33-0aa87eda0561,electrical engineering,Elektrotechnik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3fedb2c6-488f-4c78-b20d-af23d481348a,manage packaging material,Umgang mit Verpackungsmaterial steuern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4134622c-c3fb-4a41-beb6-6d58ba5107db,demonstrate disciplinary expertise,fachliche Kompetenz unter Beweis stellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/42b23922-1c40-4dbe-9e0c-7a568dfdf06b,adjust engineering designs,Konstruktionspläne anpassen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/459f76d9-8534-4880-aa23-209179ea5080,monitor packaging operations,Verpackungsarbeiten überwachen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/45d9d702-504a-4b12-883a-e7155aadab99,apply methods for footwear and leather goods manufacturing,Herstellungsmethoden für Schuhwerk und Lederwaren anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/49298916-2090-4b08-ac57-5cfedaa5af36,reduce environmental impact of footwear manufacturing,Folgen der Schuhproduktion für die Umwelt reduzieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4b43cc79-90b1-4f23-a2ce-cb3ea341e6d1,advise on homologation procedure,Beratung zum Homologationsverfahren leisten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4c831013-9027-4ec6-83de-c5c19e68d083,work safely with machines,sicher mit Maschinen arbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc,perform scientific research,wissenschaftliche Forschung betreiben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4ff549c3-daa5-4def-9916-301c7bdf13b8,control systems,Kontrollsysteme,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5033c2fb-ec55-4b8e-b0a4-9379593f1e1c,maintain equipment,Geräte warten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/51399b1c-15d6-4e4c-8673-30c25a094fce,promote sustainable packaging,nachhaltige Verpackung fördern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5174d7e4-bb67-403c-930e-9afc5e2f8f6e,inspect wearing apparel products,Bekleidungsprodukte untersuchen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/52c3a6cf-90b1-4cba-b5b6-30561f298314,configure plants for food industry,Produktionsanlagen für die Lebensmittelindustrie einrichten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462,use technical drawing software,Software für technisches Zeichnen verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/54bbf5e8-596f-4698-a451-06b3f1339722,ensure quality control in packaging,Qualitätskontrolle bei der Verpackung sicherstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5592ab32-4e7a-4cda-8e64-ca36d5de8a10,adapt to changing situations,sich an veränderte Situationen anpassen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93,report test findings,Testergebnisse melden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/58136283-9617-45b1-8f53-bf58efd9c5cc,manufacturing of made-up textile articles,Herstellung konfektionierter Textilartikel,True,False,False
+ESCO:http://data.europa.eu/esco/skill/58c080f9-71d5-429d-9476-bc9e742d460c,perform process control in the wearing apparel industry,Prozesse in der Bekleidungsindustrie steuern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/58db4bf3-b283-4498-8024-336773c4f879,calculate the productivity of the production of footwear and leather goods,Produktivität bei der Herstellung von Schuhwerk und Lederwaren berechnen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/59ea80e1-463a-4dba-82c6-d0b6d577d532,technical drawings,technische Zeichnungen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5ba1d5b9-3f8d-46ca-bf9f-2e9ca65d1350,apply HACCP,HACCP anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5fd29c67-c905-4e34-98ff-f90ce6446b35,European vehicle type-approval legislation,europäische Rechtsvorschriften über die Typgenehmigung von Fahrzeugen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/60097ce1-0f58-417b-b9c2-053d96300d49,conduct evaluation of quality standards,Bewertung von Qualitätsnormen durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6078e099-7696-44a5-b3c1-452b9abe886a,production engineering,Fertigungstechnik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/61d9ad65-6a78-4c72-9824-aeca20d9a102,maintain machinery,Maschinen warten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/632fc607-42e2-4402-a17b-29f6806e7e56,convert textile fibres into sliver,Textilfasern in Faserbänder umarbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/65a3a184-7d11-4db9-9b85-281961d1514b,conduct routine machinery checks,Routineüberprüfungen an Maschinen durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6860efa0-dcf4-441f-94c0-73826fa95d33,research and development in textiles,Forschung und Entwicklung im Textilbereich,True,False,False
+ESCO:http://data.europa.eu/esco/skill/69a8d03b-d132-4e45-a59f-d84e4ad362a1,oversee yarn characterisation,die Charakterisierung von Garn überwachen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6a899482-8bcf-40ca-ae67-579a1cc467ab,manage engineering project,Bauprojekte leiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6bc57b80-37c8-4c9a-be7b-960d2e44fb77,communicate commercial and technical issues in foreign languages,wirtschaftliche oder technische Fragen in Fremdsprachen erörtern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6cb9c23b-e3bc-4917-b588-26c4cef9d920,maintenance operations,Wartungsarbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6d9f05ed-9ada-4604-9670-2df3bb439050,distinguish fabrics,Stoffe unterscheiden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388,project management,Projektleitung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/71a495fe-fd76-4a70-8d77-2ef99c5ce30d,product packaging requirements,Anforderungen an die Produktverpackung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919,engineering processes,Engineering-Prozesse,True,False,False
+ESCO:http://data.europa.eu/esco/skill/73576419-31c2-4e45-8e30-ab1afec3db4e,use sustainable materials and components,nachhaltige Materialien und Komponenten verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/737abc6e-60a9-4c49-b11e-1e0e584771bb,leather goods quality,Qualität von Lederwaren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/73b4cc3b-3827-4c54-ac54-d912e5cdae21,fabric types,Gewebearten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/74374d09-7a54-4a05-ae78-d5940423de7c,use testing equipment,Prüfeinrichtungen benutzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/77558a0f-5e48-44bb-80d2-6380592080de,develop food production processes,Verfahren der Lebensmittelherstellung entwickeln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7ba8eea9-3f9c-422b-90db-1a11eb6ff904,disaggregate the production plan,Produktionsplan untergliedern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7cc80984-8c8a-4e03-8fda-b76b4198d1f0,textile technologies,Textiltechnologien,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7e2f6f05-d6ef-45f3-a33c-5d6d0b07e1cf,alter wearing apparel,Kleidung ändern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337,use communication techniques,Kommunikationstechniken nutzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/81db5616-3c98-4317-a728-5dae08d44bd4,comprehend financial business terminology,Finanz- und Geschäftsterminologie verstehen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783,interpret technical texts,Fachtexte auswerten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/862920c8-f2d0-4058-8fb8-9f06fbfc2446,develop recycling programs,Recyclingprogramme ausarbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/87de6e49-ca1c-42a4-8751-5ff0b991966b,negotiate with stakeholders,mit Interessenträgern verhandeln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/881cd4ec-5b52-46c6-abc4-60551d58b355,make technical drawings of fashion pieces,technische Zeichnungen von Modestücken anfertigen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8a4e99e0-f259-4931-888f-604cfdc15b31,perform machine maintenance,Maschinenwartungsarbeiten durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8a5d67b6-4abf-4fae-bedf-78c8882d7d47,types of vehicle engines,Arten von Fahrzeugmotoren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8b9d609a-6d62-4d5c-9133-01d41979cfac,manage all process engineering activities,alle verfahrenstechnischen Prozesse steuern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16,packaging functions,Verpackungsfunktionen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8c86584c-5afb-414f-8983-2ee3da5eacfc,types of textile fibres,Arten von Textilfasern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8f4518fb-db84-4631-a812-d859729dee54,plan leather goods manufacture,Herstellung von Lederwaren planen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/91abe492-18be-4cce-93c7-0dca07072363,meet deadlines,Fristen einhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/91c6415a-6d77-4d45-a615-44475123b330,set-up weft knitting machines,Kulierwirkmaschinen einrichten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/920764e7-43c6-42c0-b2a6-2cbcc07fafc2,monitor equipment condition,Zustand der Ausrüstung überwachen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/941364b9-1375-4add-9889-d67bae99bc8c,write technical reports,technische Berichte schreiben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/96aee526-5817-412d-88c9-29cc95e27c85,test package,Verpackungen prüfen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/96d549bb-3e62-4c45-92a7-f114df089581,analyse supply chain strategies,Supply-Chain-Strategien analysieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/97bba453-d31b-4ba3-8dca-51c5991c9e79,watch food product trends,Lebensmitteltrends verfolgen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/989dc903-5838-4d84-8e04-e5b7a2ba97c5,apply safety management,Sicherheitsmanagement anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9a58cd26-58eb-4a1c-b1b6-64037fe9cfa1,think abstractly,abstrakt denken,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9d5521f9-44d7-4db4-b7ac-0ba7d389f44d,liaise with colleagues,Kontakte zu Kollegen pflegen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a1816dfd-dbdc-4499-bef3-ff81dd895b33,industrial engineering,Industrial Engineering,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a181e89d-44ae-40e7-8d37-177071237c74,metrology,Messtechnik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a3b7134f-81c8-43da-b207-a00d8b09e61b,operate garment manufacturing machines,Maschinen für die Bekleidungsproduktion bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612,manage personal professional development,die eigene berufliche Entwicklung vorantreiben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/af8170c1-23f9-401c-b24b-e57399d6c722,apparel manufacturing technology,Technologie für die Herstellung von Bekleidung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/afbc401c-cad8-43b6-8d61-775d2c7b58d5,prepare compliance documents,Konformitätsunterlagen erstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b3452779-ece5-4cc9-8872-87953f9fe0b4,follow a tech pack,ein technisches Paket verfolgen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b3a75400-103f-42c7-b742-be11d161d05b,manage production systems,Produktionssysteme verwalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b3c5a116-8938-42b5-8e45-5fc74314856f,identify innovative concepts in packaging,innovative Verpackungskonzepte ermitteln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b4b3b539-81ae-43aa-a540-0e2ea2c7e802,food storage,Lebensmittellagerung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b4b9a682-80b9-4032-8e20-ec3dd55f334e,tufting technology,Tuftingtechnologie,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b4e4bee5-439e-4b2e-909a-50be1979b5ec,use weaving machine technologies,Webmaschinentechnologie verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b916d60e-38e9-4241-914a-4e2144bda711,operate computerised control systems,Computerkontrollsysteme bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac,identify legal requirements,rechtliche Bestimmungen ermitteln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ba8b530e-8f6f-4667-b734-3358797c0595,vehicle type-approval,Fahrzeugtypgenehmigung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bc250150-3372-42c9-834a-a1b65f89ca0b,apply requirements concerning manufacturing of food and beverages,Vorschriften für die Lebensmittel- und Getränkeherstellung anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bc93e930-3279-4cf0-8a0b-1faeac1c8c51,braiding technology,Flechttechnik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/be48353d-25c7-4f86-bea9-7b9e248fbc6e,interpret technical requirements,technische Anforderungen interpretieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bf1b6671-e8f4-4633-932e-15236780037b,history of fashion,Geschichte der Mode,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bf7a45c4-0d72-4e6e-9da7-127b2b6656b7,apply GMP,GMP anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c2241f73-9151-4817-96b2-b9a6aae4c9e9,carry out checks of production plant equipment,Anlagen in Produktionsstätten überprüfen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c299c135-7cdf-4c06-ad9d-50da94ae2d21,keep up with innovations in food manufacturing,bezüglich Innovationen im Bereich Lebensmittelherstellung auf dem Laufenden bleiben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f,quality assurance methodologies,Verfahren der Qualitätssicherung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c927ec6e-9082-4b22-afd3-0c4e219eaf73,ensure equipment maintenance,Anlagewartung sicherstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/cab119c5-ff95-4499-b91a-54e9f6c5cde1,work in textile manufacturing teams,in Textilfertigungsteams arbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/cda1c50a-b82a-4ea2-9ea4-21c656ac3ea8,manufacture braided products,Flechtwaren herstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d18e37a5-2cdf-4845-bb65-7c8e82e09dc5,inspect machinery,Maschinenpark begutachten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d1920e7f-c9ef-4e48-91b9-cdb6fbb46f58,manage quality of leather throughout the production process,Qualität von Leder über den ganzen Produktionsprozess steuern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d2810e30-951b-4cfa-b7dc-06f81e5f4763,staple spinning machine technology,Technologie für Stapelspinnmaschinen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d2c81ad1-2439-43cf-9c63-204187b8f771,mitigate waste of resources,Ressourcenverschwendung mindern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d342d0f3-9b84-4b52-b764-b80b43da168f,monitor filling machines,Füllmaschine überwachen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d5c9c535-6539-4fc7-bada-e3169dcc445d,food authentication techniques,Methoden zur Authentifizierung von Lebensmitteln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2,define technical requirements,Technische Anforderungen definieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/dbb0afa6-4dd1-4ded-84e7-b2c706164bcc,textile printing technology,Stoffdruckverfahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/dcc96a49-0bac-4a9c-8f8e-a32b4e47e6eb,apply health and safety standards,Normen für Gesundheitsschutz und Sicherheit anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/dd06c2e2-ecf7-4ce8-9f12-ae5d935071f2,food fraud,Lebensmittelbetrug,True,False,False
+ESCO:http://data.europa.eu/esco/skill/deb9b821-316f-45bb-a57b-fbce518a8161,standard sizing systems for clothing,Standardgrößensysteme für Bekleidung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e3211ab2-18b5-49b4-90de-d395f3be2378,execute working instructions,Arbeitsanweisungen umsetzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e65117b6-97e0-4f45-bd61-e581dcd6ec2a,select adequate packaging for food products,geeignete Verpackungen für Lebensmittel auswählen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e8664a7b-aef5-4db7-89c6-fe50ba22ef07,measure working time in goods production,Arbeitszeiten bei der Herstellung von Waren messen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e921279a-1a7e-4900-9720-bde93ae3e70e,prepare production prototypes,Produktionsprototypen vorbereiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/eb13f8c5-8300-4422-a51f-475a7edb09ef,conduct textile testing operations,Textiltestverfahren durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/edb029e7-43a8-45a9-b37c-00ff730a1092,vehicle manufacturing process,Fahrzeugbauverfahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/efc5534d-3631-4564-a7b0-f6ae558f3c03,ensure conformity to specifications,Einhaltung von Vorgaben sicherstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3,ensure products meet regulatory requirements,"sicherstellen, dass Produkte gesetzliche Anforderungen erfüllen",True,False,False
+ESCO:http://data.europa.eu/esco/skill/f54c10e4-630d-4e50-95e9-4e9e268e8f12,approve engineering design,Konstruktionsgestaltung genehmigen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f632251a-4078-4546-b19f-7ef528d08325,use IT tools,IT-Werkzeuge verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f698f8df-b473-40aa-a5c9-033cd892467a,keep up-to-date with regulations,bezüglich geltender Vorschriften auf dem Laufenden bleiben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f715be1d-5fc4-49d3-82a5-0b8090d12849,synthesise information,Informationen zusammenfassen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f7a1ccf0-fb40-49ef-ae9b-8a1f8646c218,leather goods materials,Materialien für die Lederwarenproduktion,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f975091a-e5a5-4472-ac17-11680e53e98f,seek innovation in current practices,Neuerungen in derzeitigen Praktiken anstreben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fa4ffcfa-c03a-4f23-b49e-dab0b406cda1,textile finishing technology,Textilveredelungstechnologie,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fc518d4e-1968-4ba9-9750-8d386712a00f,manage packaging development cycle from concept to launch,Verpackungsentwicklungsverfahren vom Konzept bis zur Markteinführung steuern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fc54bd7f-0c03-4fdd-af8c-5eb4021e716d,identify with the company's goals,Sich mit den Unternehmenszielen identifizieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fcc64184-33d5-4e4a-8d28-0993d5685c39,packaging processes,Verpackungsverfahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fe309116-eea5-4b23-8748-316c927af6e2,check quality of products in textile production line,Qualität von Produkten an der Textilproduktionslinie kontrollieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/97965983-0da4-4902-9daf-d5cd2693ef73,3D modelling,3D-Modellierung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a2b5dcf3-5b6a-453d-876c-cff540c0faf1,CAD software,CAD-Software,True,False,False
+ESCO:http://data.europa.eu/esco/skill/82313e12-9d39-47d1-b7c9-78bbd6bb50e2,CAE software,CAE Software,True,False,False
+ESCO:http://data.europa.eu/esco/skill/0f7b4bf5-8d37-4205-bd61-fe0878e9d9e2,adjust production schedule,Produktionsplan anpassen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8a6c6fe0-bbd1-4225-b8cb-246ddde8e73d,advise customers on new equipment,Kunden/Kundinnen über neue Ausrüstung beraten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8bc75dce-beba-40f9-93fc-66c9708ed74b,advise on efficiency improvements,Beratung zur Effizienzverbesserung leisten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8c474534-707f-46f3-b356-810bbfe8b693,advise on machinery malfunctions,im Bereich Maschinenstörungen beraten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6c80c47c-3d08-4356-aa82-46f6ec82c898,advise on manufacturing problems,zu Fertigungsfragen beraten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/37838e04-ac5f-43a5-82d0-35f42351fd60,advise on safety improvements,Rat zu Verbesserungen der Sicherheit erteilen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/80466be3-825a-456a-94ec-9c83c0007f0c,aerodynamics,Aerodynamik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5dd96c59-5955-474b-8cf5-e986a5b50f1a,aerospace engineering,Raumfahrttechnik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7e9b4242-2be7-4b9e-8ca0-46d5cedd3cb9,agricultural chemicals,landwirtschaftliche Chemikalien,True,False,False
+ESCO:http://data.europa.eu/esco/skill/532bcdca-a889-4dea-8f7f-4e03d8cfd0d2,aircraft mechanics,Luftfahrzeugtechnik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5,analyse big data,Massendaten analysieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/486e0580-470f-42a2-bd6d-ec940c239a9b,analyse packaging requirements,Verpackungsanforderungen analysieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81,analyse production processes for improvement,Produktionsprozesse zwecks Optimierung analysieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a9d2af37-f208-4ce8-8cc2-24de0b02b555,analyse stress resistance of materials,Belastbarkeit von Materialien auswerten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/81a2db2c-7e55-44d0-9cd9-74c25147d7cd,analyse test data,Testdaten auswerten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ff862044-d49e-4417-bf65-1ae2c0a47e5a,analyse work-related written reports,arbeitsbezogene schriftliche Berichte analysieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4f0e579d-ca7b-427c-ace6-9e2de3eb19c7,apply advanced manufacturing,moderne Fertigungstechniken anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/82887396-e5bf-4306-af51-3fe8d82790b2,civil engineering,Bauingenieurwesen,False,True,True
+ESCO:http://data.europa.eu/esco/skill/d3e9b00a-0891-4fa8-836d-8240ec3d2758,GDPR,DSGVO,False,True,True
+LINKEDIN:abi,ABI,ABI,False,False,True
+LINKEDIN:bri,BRI,BRI,False,False,True
+LINKEDIN:building operations,Building Operations,Building Operations,False,False,True
+LINKEDIN:circuit testing,Circuit Testing,Circuit Testing,False,False,True
+LINKEDIN:cisco switches,Cisco Switches,Cisco Switches,False,False,True
+LINKEDIN:disability insurance,Disability Insurance,Disability Insurance,False,False,True
+LINKEDIN:endpoint protection,Endpoint Protection,Endpoint Protection,False,False,True
+LINKEDIN:fact,FACT,FACT,False,False,True
+BA:K 100001-013,"Gestaltung, Design","Gestaltung, Design",False,True,False
+BA:K 0806-003,Analysis,Analysis,False,True,False
+BA:K 070108-009,Mathematik- und Programmiersoftware Maple,Mathematik- und Programmiersoftware Maple,False,True,False
+BA:K 0703-072,A/B-Testing,A/B-Testing,False,True,False
+BA:K 070402-010,Projektplanungssoftware MS Project (MS Office),Projektplanungssoftware MS Project (MS Office),False,True,False
+BA:K 070104-076,Adobe Muse,Adobe Muse,False,True,False
+BA:K 090200-015,Chirurgie (ärztlich),Chirurgie (ärztlich),False,True,False
+BA:K 030300-016,Industrial Engineering,Industrial Engineering,False,True,False
+BA:K 0700-070,Microsoft 365,Microsoft 365,False,True,False
+ESCO:http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787,computer science,Informatik,False,True,False
+BA:K 0702-069,Backup-Software HP Data Protector,Backup-Software HP Data Protector,False,True,False
+BA:K 1401-070,Projektmanagement nach PRINCE2,Projektmanagement nach PRINCE2,False,True,False
+BA:K 010404-003,Feinkartonagenherstellung,Feinkartonagenherstellung,False,True,False
+BA:K 010900-000,"Automatisierungstechnik, Prozessautomatisierung","Automatisierungstechnik, Prozessautomatisierung",False,True,False
+BA:K 0702-072,Storage- und Backupsysteme,Storage- und Backupsysteme,False,True,False
+BA:K 0805-009,Europäische Integration,Europäische Integration,False,True,False
+BA:K 0400-079,Demand Sensing,Demand Sensing,False,True,False
+BA:K 0702-048,MS-SQL Server,MS-SQL Server,False,True,False
+ESCO:http://data.europa.eu/esco/skill/01c4bbed-0449-44c9-9c05-48c30ffdcc22,maintain rotating equipment,rotierende Ausrüstungen warten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/070b9cfc-5052-4567-ab82-cb931eaed700,operate grease gun,Fettpresse bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/09dcef82-f470-49b0-9fa7-795443c79a9d,prepare main engines for navigation operations,Hauptmotoren für den Navigationsbetrieb vorbereiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/0c04d0af-af50-4463-8ce3-e9968e229237,keep heavy construction equipment in good condition,schwere Baumaschinen instandhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/16f22744-64f4-4798-8666-aea6d7d201fc,international waterways,internationale Wasserstraßen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/182915aa-3470-433a-9b12-347511befcde,maintain records of maintenance interventions,Aufzeichnungen über Wartungseingriffe führen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1a1a04b7-1d4c-414d-a791-7499ddb90a7f,functions of vessel deck equipment,Funktionen der Geräte an Deck eines Schiffes,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1a3660c2-011c-4e96-9b1d-529afc305428,inspect quality of products,Qualität von Erzeugnissen kontrollieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/1f4a4458-af5e-4ddd-bf95-19e67eb1b3c6,repair crane equipment,Krananlagen reparieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/21bb2766-92b0-4f52-8747-a92fdbdeac9a,use weft preparation technologies,Technologie zur Vorbereitung von Kulierware verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1,debug software,Softwareprobleme identifizieren und beheben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/25b973c6-68ea-4ff7-bd26-aa76bd08b62a,hydraulic fluid,Hydraulikflüssigkeit,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2a314d49-c071-403b-9cc8-75aea53e7859,manage heavy equipment,schweres Gerät betreuen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2b57ba73-7fe3-4410-bda4-a3429e4ddab7,international regulations for preventing collisions at sea,Internationale Regeln zur Verhütung von Zusammenstößen auf See,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2bf28253-cf4a-4654-903f-170f3a350e03,execute safety assurance exercises,Qualitätssicherungsaufgaben ausführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2c5fbce2-cd76-4ef9-83c4-3a1b9afad015,maintain agricultural machinery,landwirtschaftliche Maschinen warten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/2ee670aa-c687-4ff7-92eb-0abc9b57e5f2,mechanics of vessels,Schiffsmechanik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/301a6581-e983-4bb6-8b31-b3ee2cbc2392,extinguish fires,Brände löschen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/306ca6bc-bacd-434e-91d9-249a518ec71e,metal joining technologies,Metallfügeverfahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/328733a7-6d84-420d-a65c-2a8014fadc60,record test data,Prüfdaten festhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/32b8710b-2e9d-466c-ba27-4cf188e70aaf,test mine equipment,Bergbauausrüstung testen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/3364034e-78b0-4faf-8dab-6b40bec41159,types of lubricants,Arten von Schmiermitteln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/337e06b0-29e3-47bf-95a3-19bd84b311de,manipulate metal,Metall bearbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/351e3f8f-4631-412d-963f-25b5fd4efe48,maintain records of mining operations,Aufzeichnungen über Grubenaktivitäten führen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/36aa8d72-84b2-4abc-a30b-cdee19363cb3,measure parts of manufactured products,Teile von Fertigprodukten messen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/386774ac-fe5b-431a-b485-9aec0bf5c09e,maintain electrical equipment,elektrische Ausrüstung instand halten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/38eed4e2-7fdd-47e6-a79f-5f29bee6c52a,comply with operational standards for vessels,Betriebsnormen für Schiffe einhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/40d243e3-436d-4acc-9481-5d3acaf07665,vessel fuels,Arten von Schiffskraftstoffen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/41ec47dd-08b3-464a-9c45-c706f3e74467,industrial software,Industriesoftware,True,False,False
+ESCO:http://data.europa.eu/esco/skill/44297bbb-306a-46fa-ab1b-fa3fb327ebda,mechanical tools,mechanische Werkzeuge,True,False,False
+ESCO:http://data.europa.eu/esco/skill/465ff64a-1271-4064-8ed1-e969cb68d8b4,perform test run,Testlauf durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4853efe8-0cdd-42d1-bc5a-6ba5fa9a8b2c,monitor heavy machinery,schweres Gerät überwachen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/49026711-0f2d-42b3-8912-2b897ad05117,moor vessels,Schiffe festmachen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/4a806285-13a0-495b-b383-c3990f8f7d4a,ensure integrity of hull,Unversehrtheit des Schiffsrumpfes sicherstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5088c536-13fb-4b6b-85e7-4053578e1451,electrical systems used in transportation,im Transportwesen verwendete elektrische Systeme,True,False,False
+ESCO:http://data.europa.eu/esco/skill/50ab7296-bc34-4cb1-9fdb-7cf7b6f80f9c,maintain work standards,Arbeitsstandards aufrechterhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5133ed7b-0785-4c28-825d-1dcf518c4b5b,align components,Bauteile ausrichten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/51826e07-64c9-4d2c-9964-88cfbf131ad2,work as a team in a hazardous environment,in gefährlichem Umfeld als Team arbeiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/51b4a8c4-6af7-41b7-a68d-f3c2fd63c9ec,de-limb trees,Bäume entästen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5383a985-85f6-45ac-bb5a-1e4b48bb6e76,operate vessel engine room,Schiffsmaschinenraum führen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/53a1a19b-8b61-481a-9791-70345fb6a335,communicate reports provided by passengers,von Fahrgästen übermittelte Meldungen weiterleiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/53e864a7-c8ec-4193-a5d9-595c144330f1,clean parts of vessels,Schiffsteile reinigen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/541c8568-1b37-4903-8655-222cc25f8158,apply vessel engine regulations,Vorschriften für Schiffsmotoren anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/54804209-6aac-4ca4-bf3c-aef4fbe18f8c,principles of mechanical engineering,Grundsätze des Maschinenbaus,True,False,False
+ESCO:http://data.europa.eu/esco/skill/554a5829-7383-47cc-9cad-5f9f69de4a79,apply regulations on cargo transport operations,Vorschriften für die Frachtbeförderung anwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/556a0f07-b5f2-4dc5-ba00-5b3f60c90643,maintain moulds,Gussformen instandhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/572cb305-4ffd-488d-bdba-c60195b41f06,maintain crane equipment,Kranausstattung warten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/575f79e8-8500-4ddf-91ec-5e6de73d35a3,mechanical components of vehicles,mechanische Teile von Fahrzeugen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5f95f9c9-30ee-4735-ab63-8045ec8f78f8,agricultural equipment,Landmaschinen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6055f185-3214-491e-975a-cfcc1756fe1d,metal forming technologies,Metallumformtechniken,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6122d586-5978-431f-8e7a-96e61fc1f3fc,wear appropriate protective gear,geeignete Schutzausrüstung tragen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6669458f-8692-4c7c-a1f0-bc9cc5310faa,repair mould defects,Fehler an Gussformen reparieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/68b6ef08-d823-489d-a95c-752ae6f6e6a7,read standard blueprints,Standardbaupläne lesen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/68e66ed6-a171-4350-8ec1-2cfc4cae50e4,hydraulics,Hydraulik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6b41fcd8-85eb-4b27-b409-05ffcc663a3d,prevent sea pollution,Meeresverschmutzung vermeiden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/6ed2fb8d-3580-497f-8a21-30a0ada5caae,secure working area,Arbeitsbereich sichern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/73567f32-2021-42ee-b30e-02130b010bbb,types of rotating equipment,Arten von rotierenden Ausrüstungen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/753b1781-ea44-4eea-b84a-f8a76fbd6c4d,install hydraulic systems,Hydrauliksysteme installieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/755dd3c3-824a-4f39-9935-6f036a8e62b9,manage vessel control systems,Schiffssteuerungsanlagen verwalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/75f312e1-622b-4751-8d93-815b32feaf8d,pollution prevention,Verhütung von Umweltverschmutzung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/767606b1-9c54-4dbd-8a69-80cc3ab923c1,coordinate fire fighting,Brandbekämpfung koordinieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/774ee0e0-5d24-48d8-8df0-4b7fea48a578,set up crane,Kran errichten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7838de1e-d65e-4a3f-b60b-e2213026116f,operate material handling equipment,Geräte für den Materialtransport bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092,analyse ICT system,IKT-System analysieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7c7d8588-5224-473c-bfe8-1fda049eeaaf,repair rotating equipment,rotierende Ausrüstungen reparieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7d4d1dae-bcba-47e8-9409-ea52b02ce246,detect malfunctions in engines,Fehlfunktionen in Motoren ausfindig machen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7f107a85-d6ac-410f-a995-d635c5aa418b,types of metal,Metallsorten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8215bbba-2f6d-4530-bf41-904d871eaf72,manoeuvre heavy trucks,Schwerlastwagen manövrieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/822e7177-9868-43b7-a31c-9bea1e8a57ec,diagnose fuel systems,Störungen in Kraftstoffanlagen diagnostizieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8699a823-40d0-40cb-8ecc-92ea8b533d64,operate metal fabricating machines,Metallverarbeitungsanlagen bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/87a0c0e6-c114-4ea1-b2d0-933bce1f3c5f,assemble machines,Maschinen montieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/87a7c61b-732f-40e7-8012-48ed155c20e8,manage ship emergency plans,Notfallpläne für Schiffe handhaben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/87b1c959-236d-4761-b3be-b1c729497f75,fluid mechanics,Strömungsmechanik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8dc05a09-f323-48a1-aefb-43d9fcba15aa,types of moulding,Urformverfahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8e74635a-abf2-4c5a-a6b2-7d00827573d4,operate drill press,Bohrmaschine bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/8efb6150-2c43-4109-b3cd-41c3451698ea,maintain mechanical equipment,mechanische Ausrüstung instand halten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9328d71d-e46c-47ff-b48a-af0da294d4f4,european classification of inland waterways,europäische Klassifizierung der Binnenwasserstraßen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/94747ff4-603d-47d4-9780-bf53be41e190,inspect industrial equipment,Industrieanlagen prüfen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/962c3758-7fc8-4ee1-95b2-73b5efcd4684,inland waterway ship building,Bau von Binnenschiffen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9926889a-7074-4e37-acce-1271fe6c5a6f,survive at sea in the event of ship abandonment,"das Überleben auf See sichern, falls ein Schiff aufgegeben wird",True,False,False
+ESCO:http://data.europa.eu/esco/skill/9a26b8b7-ec0f-46f8-a698-1f07cef1c5e3,ensure vessel compliance with regulations,Konformität des Schiffs mit den Vorschriften sicherstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9a6972ce-4367-4ccc-bd75-27eea74229a2,use caulking tools,Kalfaterwerkzeug verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9b3a7918-c4f0-4f3f-9eaf-72c952d17374,maintain mine machinery,Grubenmaschinerie warten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9d8c2aa1-b8fa-4ddb-b8e4-7fec7af67b47,install crane equipment,Krananlagen aufstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c,solve ICT system problems,IKT-Systemprobleme lösen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/9f34107c-8db0-4b00-84d8-3f64e400c80c,consult technical resources,technische Ressourcen zu Rate ziehen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a125a4c2-3b0a-4996-9a63-57043d4d9159,industrial tools,Industriewerkzeuge,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a27296de-4b08-44df-a4f1-660e5bb03f59,communicate mine equipment information,Informationen zur Grubenausrüstung geben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a61d58b6-f6f1-4b54-8cdd-54b3bb11b69c,cut metal products,Metallprodukte schneiden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a6bbc19a-381c-4c60-a79a-41dea2d1a422,drive agricultural machines,Landwirtschaftlichen Fahrzeuge fahren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a833fceb-c552-4a5c-a5cf-4163313995c9,prepare equipment for navigation operations,Geräte für Navigationsoperationen vorbereiten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/aac9e93a-106a-4cdc-8d27-ac3a9ffce0ac,International Convention for the Prevention of Pollution from Ships,Internationales Übereinkommen zur Verhütung der Meeresverschmutzung durch Schiffe,True,False,False
+ESCO:http://data.europa.eu/esco/skill/aafbb139-02c6-4f35-bc62-ff73faf97d6d,interpret 3D plans,3D-Pläne lesen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ad5ea463-5dc7-497e-b5fa-e1a1db0aaa08,install mining machinery,Bergbaumaschinen einrichten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/adc76417-47f8-4f3d-8037-3c5c5ce9d9b2,use maritime English,maritimes Englisch verstehen und sprechen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b07daddc-8625-4360-946e-ad2b0e56ebf6,read engineering drawings,technische Zeichnungen lesen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b091d04a-bb5d-4998-afc9-d71e6c96fb80,construction equipment related to building materials,Baumaschinen für die Baustoffhandhabung,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b4877620-c375-45f3-a678-2ddb4dae6a29,repair ICT devices,IKT-Geräte reparieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b92758d4-4591-4df1-9ceb-f907aa71ebd9,use measurement instruments,Messinstrumente nutzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/b928ae44-b19f-49c7-a823-b09094de1063,repair equipment on site,Geräte vor Ort instand setzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ba45db8f-34e8-4f29-af0b-e6645e1d693f,maintain electronic equipment,elektronische Ausrüstung instand halten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bb53ee36-a5af-4c32-93f0-0438a437e509,train operators in using mine machinery,Bediener/Bedienerinnen von Bergbaumaschinen schulen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bc05eaf7-8d1f-46e3-8834-9d45c4e92831,fisheries legislation,Fischereirecht,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f,pneumatics,Pneumatik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bf9fe406-0849-4be3-ae95-172c9f02d02a,inspect crane equipment,Kranausstattung inspizieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c56d4a15-8454-4544-bb5a-3de6ce1be4e4,secure crane,Kran sichern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c5fdbd81-db10-4fc3-8cee-8b1a7169c472,maintain footwear assembling equipment,Maschinen und Geräte für die Herstellung von Schuhwerk warten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c6a0e8f4-ac0d-40b7-a594-86bf33c3e8dc,distinguish various types of ships,unterschiedliche Schiffstypen erkennen und unterscheiden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c78456d8-9633-4639-ad36-5755628f596d,adhere to traffic regulations on inland waterways,Verkehrsregeln für Binnenwasserstraßen einhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c8121c66-b2fa-4880-90c7-56d314dcf7b0,use warp preparation technologies,Kettvorbereitungstechnologie verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/cafc2723-c308-4058-9921-61306b5de924,fasten components,Bauteile befestigen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/cea76131-1049-467d-bd00-bd155f5d65da,fishing vessels,Fischereifahrzeuge,True,False,False
+ESCO:http://data.europa.eu/esco/skill/cffc3e97-e942-4b13-a2f3-0bf4910c06d3,use technical documentation,technische Dokumentationen verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d019e141-80a7-4a38-9aa9-972e663e7f55,operate forestry machinery,forstwirtschaftliche Maschinen bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d1072655-88ce-4445-8803-e6273da273e7,blueprints,technische Pläne,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d15e92c4-c8dc-48cd-a1f6-94fe13347f87,electrical wiring plans,elektrische Schaltbilder,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d30dac77-a21f-45e7-a9a1-36cc1529d287,unmoor vessels,Schiffe losmachen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d72df8d3-058d-46b0-be77-10663d1a006b,report mine machinery repairs,Reparaturberichte für Bergbaumaschinen erstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d7ec90bb-487c-4318-911c-5c0b3e233619,distinguish ship construction methods,Schiffsbaumethoden unterscheiden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d84ff2a1-aa27-44a8-8af0-317db8d3001b,national waterways,nationale Wasserstraßen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/dd945f44-3f30-4a42-81b4-785b6c42401b,prevent damage to electrical devices on board,Schäden an elektrischen Geräten an Bord verhindern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/de4ae0ae-0c82-4295-a724-8c0a27ea1a05,clean up spilled oil,in die Umwelt gelangtes Öl entsorgen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/dfce2aba-783e-4e17-9c17-e74aca505ec2,interpret 2D plans,2D-Pläne lesen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e0b04224-52b4-44c4-9fae-26e9272dfe04,maintain vessel engine room,Schiffsmaschinenraum pflegen und warten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e0b749fa-4d71-488e-9b83-e27ae6fa3f25,drive timber machine,Nutzholzvollernter bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e4a9ec84-4eb3-494b-8a70-0fcf0d687f03,tend lathe,Drehmaschine pflegen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e8d7608d-0d95-461d-b8b1-7be4757087df,risks associated with undertaking fishing operations,Risiken im Zusammenhang mit Fischereieinsätzen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e9440312-38ed-4d64-9850-b9dd47182456,manufacture weft knitted fabrics,Kulierware herstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ebed12be-5b84-4962-a4bb-9ef569fa2661,interpret mechanical mine machinery manuals,Handbücher für mechanische Bergbaumaschinen auslegen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ec4de8aa-9ba4-412b-832d-93361210eae3,marine technology,Meerestechnologie,True,False,False
+ESCO:http://data.europa.eu/esco/skill/efa141df-f382-418f-9121-bd88fd735669,mechanics,Mechanik,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f041ce17-a005-4c69-846e-e3806e0b62f9,conduct inter-shift communication,zwischen einzelnen Arbeitsschichten kommunizieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df,health and safety regulations,Gesundheitsschutz- und Sicherheitsvorschriften,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f30a7ea4-77dd-452c-8a2d-b06c12606a7f,operate soldering equipment,Lötgeräte bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f6ef3a67-5c71-4c84-a530-c8306c81fd76,types of forging press,Arten von Schmiedepressen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f774cc69-f0cf-4767-bf13-9b16dc7f7c07,operate ship propulsion system,Schiffsantriebe bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f9411f5f-0bb8-4f92-91c4-38b8b38e5179,report to the team leader,Arbeitsgruppenleiter/Arbeitsgruppenleiterin Bericht erstatten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fafbb75f-ec35-4cc2-996a-20c85ef6c266,follow safety procedures when working at heights,Sicherheitsverfahren bei der Arbeit in großen Höhen befolgen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fc651e3f-c163-4bdb-bb79-8061fbe780db,operate ship rescue machinery,Rettungsausrüstung auf Schiffen bedienen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e93acbe5-535a-4927-9e7c-3b2e06ddfee8,Global Maritime Distress and Safety System,Weltweites Seenot- und Sicherheitsfunksystem (GMDSS),True,False,False
+ESCO:http://data.europa.eu/esco/skill/25e16679-a7d0-464d-916c-63210001bbab,act reliably,zuverlässig handeln,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ca64b48c-51ea-4c19-8074-b9cf819cfdd0,adjust tightness of engine parts,Anzugsmomente von Maschinenteilen einstellen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/ee4d3b02-acf4-4eb3-8972-57674c48dddb,apply polishing lubricants,Polier-Schmiermittel verwenden,True,False,False
+ESCO:http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313,assessment of risks and threats,Bewertung von Risiken und Bedrohungen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/25ac3483-c459-4c46-8e6a-3f644a1d34a3,bolt engine parts,Maschinenteile verschrauben,True,False,False
+ESCO:http://data.europa.eu/esco/skill/910becaf-d07b-455a-a363-0bf9430afb51,clean equipment,Geräte reinigen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/5cf70b66-f1b4-4c50-94fb-15ec74fad028,communicate using the global maritime distress and safety system,mit dem weltweiten Seenot- und Sicherheitssystem kommunizieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/d66964f4-6f5b-443e-bf74-e61a56f5957f,comply with checklists,Checklisten einhalten,True,False,False
+ESCO:http://data.europa.eu/esco/skill/bbd57056-80e0-45bb-a2c1-658ed99a1251,conduct performance tests,Leistungstests durchführen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/fe77f9ca-7bd2-4a68-98f4-8463a4fb8301,construction industry,Baubranche,True,False,False
+ESCO:http://data.europa.eu/esco/skill/a1728801-a4fd-47b5-862f-12e837f0933c,control air flow,Luftfluss steuern,True,False,False
+ESCO:http://data.europa.eu/esco/skill/e1f5c539-7c93-49ee-917d-a24e0d887686,control of expenses,Ausgaben kontrollieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/afdb41dd-5dd5-4fbb-bf9e-e041422698b4,coordinate operational activities,betriebliche Tätigkeiten koordinieren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/40fa39b5-0f69-432a-b5ea-b01b5d98649a,dispose of hazardous waste,gefährliche Abfälle entsorgen,True,False,False
+ESCO:http://data.europa.eu/esco/skill/c8c18b8d-a813-49f8-a702-689564dcf8b2,electric generators,Stromgeneratoren,True,False,False
+ESCO:http://data.europa.eu/esco/skill/f0ab5d57-4be7-411b-afce-b4a76a142302,electrical machines,elektrische Maschinen,True,False,False
+BA:K 130302-014,"Sanitär-, Heizungsanlagen","Sanitär-, Heizungsanlagen",False,True,False
+BA:K 130100-001,"Arbeits-, Berufskleidung","Arbeits-, Berufskleidung",False,True,False
+BA:K 130302-004,Fußbodenheizung,Fußbodenheizung,False,True,False
+BA:K 0700-079,Patch-Management,Patch-Management,False,True,False
+BA:K 12-006,Praktikantentätigkeit,Praktikantentätigkeit,False,True,False
+BA:K 010205-000,Instandhaltungsmanagement,Instandhaltungsmanagement,False,True,False
+BA:K 030205-010,Personalwesen,Personalwesen,False,True,False
